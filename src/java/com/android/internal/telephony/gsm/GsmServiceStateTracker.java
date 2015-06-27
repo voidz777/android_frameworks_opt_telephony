@@ -68,6 +68,7 @@ import android.telephony.SubscriptionManager;
 import com.android.internal.telephony.TelephonyIntents;
 import com.android.internal.telephony.TelephonyProperties;
 import com.android.internal.telephony.dataconnection.DcTrackerBase;
+import com.android.internal.telephony.imsphone.ImsPhone;
 import com.android.internal.telephony.uicc.IccCardApplicationStatus.AppState;
 import com.android.internal.telephony.uicc.IccRecords;
 import com.android.internal.telephony.uicc.SIMRecords;
